@@ -1,0 +1,49 @@
+body{
+    font-weight: bold;
+}
+p{
+    font-size: 14px;
+    padding-left: 70px;
+    margin: 0;
+   
+}
+
+
+.sectionparent, .sectionparent2,.sectionparent3{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    padding-bottom: 4rem;
+  
+   
+}
+
+input{
+    width: 4rem;
+    height: 1.4rem;
+    border: 2px solid black;
+    font-size: 16px;
+  font-weight: bold; 
+    
+}
+
+.child, .child4, .child3, .child2,.child5,.child6{
+padding: 10px;
+margin: 5px;
+border: 2px solid black;
+ 
+}
+
+.buttons{
+    margin-top: 30px;
+    
+    
+    }
+
+
+
+
+.form-group{
+    padding: 2px;
+}
